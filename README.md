@@ -21,10 +21,12 @@
 
 ### 사이드 프로젝트 레벨
 [![typescript Badge](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
-[![typeorm Badge](https://img.shields.io/badge/TypeORM-E83524?style=flat-square)]()
 [![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)]()
 [![graphql Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)]()
 [![apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)]()
+
+[![typeorm Badge](https://img.shields.io/badge/TypeORM-E83524?style=flat-square)]()
+[![typegrpahql Badge](https://img.shields.io/badge/TypeGraphQL-2F7AAB?style=flat-square)]()
 
 [![react Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
 [![next Badge](https://img.shields.io/badge/Next.js-lightgray?style=flat-square&logo=next.js&logoColor=black)]()
