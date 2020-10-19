@@ -17,29 +17,29 @@
 
 ### 비즈니스 레벨
 [![js Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![node Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)]()
-[![koa Badge](https://img.shields.io/badge/Koa-33333D?style=flat-square)]()
-[![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
-[![sequelize Badge](https://img.shields.io/badge/Sequelize-03AFEF?style=flat-square)]()
-[![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)]()
+[![node Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+[![koa Badge](https://img.shields.io/badge/Koa-33333D?style=flat-square)](#)
+[![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![sequelize Badge](https://img.shields.io/badge/Sequelize-03AFEF?style=flat-square)](#)
+[![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 
 ### 사이드 프로젝트 레벨
-[![typescript Badge](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
-[![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)]()
-[![graphql Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)]()
-[![apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)]()
+[![typescript Badge](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
+[![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
+[![graphql Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](#)
+[![apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)](#)
 
-[![typeorm Badge](https://img.shields.io/badge/TypeORM-E83524?style=flat-square)]()
-[![typegrpahql Badge](https://img.shields.io/badge/TypeGraphQL-2F7AAB?style=flat-square)]()
+[![typeorm Badge](https://img.shields.io/badge/TypeORM-E83524?style=flat-square)](#)
+[![typegrpahql Badge](https://img.shields.io/badge/TypeGraphQL-2F7AAB?style=flat-square)](#)
 
-[![react Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
-[![next Badge](https://img.shields.io/badge/Next.js-lightgray?style=flat-square&logo=next.js&logoColor=black)]()
-[![webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)]()
-[![babel Badge](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)]()
-[![styled-components Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)]()
-[![sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)]()
+[![react Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+[![next Badge](https://img.shields.io/badge/Next.js-lightgray?style=flat-square&logo=next.js&logoColor=black)](#)
+[![webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](#)
+[![babel Badge](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)](#)
+[![styled-components Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)](#)
+[![sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](#)
 
-[![eslint Badge](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)]()
-[![prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)]()
+[![eslint Badge](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](#)
+[![prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](#)
 
 ---
