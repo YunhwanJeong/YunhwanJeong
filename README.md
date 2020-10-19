@@ -2,14 +2,20 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunhwanJung%2Fhit-counter&count_bg=%230AC8A3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
 
-## 안녕하세요, 정윤환입니다 👋
-- 👨‍💻 Maker를 지향하는 웹 개발자에요.
-- 🔧 만들고 고치는 것을 좋아해요.
-- ⏳ 만들어야 할 때 고치고 싶어지면 Done is better than perfect를 되새겨요.
-- ⚡ 문제 상황을 과하지 않은 적절한 엔지니어링으로 해결하고자 노력해요.
-- 🧘‍♂️ 자존심은 낮추고, 자존감은 높이려 해요.
+# 안녕하세요, 정윤환입니다 👋
 
-## 이런 경험이 있어요
+👨‍💻 Maker를 지향하는 웹 개발자에요.
+
+🔧 만들고 고치는 것을 좋아해요.
+
+⏳ 만들어야 할 때 고치고 싶어지면 Done is better than perfect를 되새겨요.
+
+⚡ 문제 상황을 과하지 않은 적절한 엔지니어링으로 해결하고자 노력해요.
+
+🧘‍♂️ 자존심은 낮추고, 자존감은 높이려 해요.
+
+
+# 이런 경험이 있어요
 
 ### 비즈니스 레벨
 [![js Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
