@@ -18,6 +18,7 @@
 [![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
 [![koa Badge](https://img.shields.io/badge/Koa-33333D?style=flat-square)](#)
+[![rest Badge](https://img.shields.io/badge/REST-0096D0?style=flat-square)](#)
 
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![sequelize Badge](https://img.shields.io/badge/Sequelize-03AFEF?style=flat-square)](#)
