@@ -21,7 +21,6 @@
 
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![sequelize Badge](https://img.shields.io/badge/Sequelize-03AFEF?style=flat-square)](#)
-
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 
 ### 사이드 프로젝트 레벨
