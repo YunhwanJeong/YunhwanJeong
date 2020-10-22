@@ -1,4 +1,4 @@
-# Maker를 지향하는 개발자 정윤환입니다 👨‍💻
+# Maker를 지향하는 웹 개발자 정윤환입니다 👨‍💻
 
 [![velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square)](https://velog.io/@aiden)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:jimmy53120488@gmail.com)
