@@ -15,19 +15,21 @@
 # 이런 경험이 있어요
 
 ### 비즈니스 레벨
-[![js Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![node Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+[![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
 [![koa Badge](https://img.shields.io/badge/Koa-33333D?style=flat-square)](#)
 
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![sequelize Badge](https://img.shields.io/badge/Sequelize-03AFEF?style=flat-square)](#)
+
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 
 ### 사이드 프로젝트 레벨
 [![typescript Badge](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
-[![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
 [![graphql Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](#)
 [![apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)](#)
+[![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
+[![socketio Badge](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](#)
 
 [![typeorm Badge](https://img.shields.io/badge/TypeORM-E83524?style=flat-square)](#)
 [![typegrpahql Badge](https://img.shields.io/badge/TypeGraphQL-2F7AAB?style=flat-square)](#)
