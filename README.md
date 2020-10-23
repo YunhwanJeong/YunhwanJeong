@@ -3,11 +3,9 @@
 [![velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square)](https://velog.io/@aiden)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:jimmy53120488@gmail.com)
 
-🔧 만들고 고치는 것을 좋아해요.
+⏳ 타임라인 범위 내에서 코드 퀄리티를 중시해요.
 
-⏳ 만들어야 할 때 고치고 싶어지면 Done is better than perfect를 되새겨요.
-
-⚡ 문제 상황을 과하지 않은 적절한 엔지니어링으로 해결하고자 노력해요.
+🔧 문제 상황을 과하지 않은 적절한 엔지니어링으로 해결하고자 노력해요.
 
 🧘‍♂️ 자존심은 낮추고, 자존감은 높이려 해요.
 
