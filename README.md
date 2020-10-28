@@ -3,7 +3,7 @@
 [![velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square)](https://velog.io/@aiden/series)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:jimmy53120488@gmail.com)
 
-⏳ 현실의 문제를 코드로 해결하는 사람이에요.
+👨‍💻 현실의 문제를 코드로 해결하는 사람이에요.
 
 🔧 문제 상황을 과하지 않은 적절한 엔지니어링으로 해결하고자 노력해요.
 
