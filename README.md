@@ -4,15 +4,11 @@
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:jimmy53120488@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-0C66C3?style=flat-square&logo=linkedin&logoColor=EFF2EB)](https://www.linkedin.com/in/aaronchung5312/)
 
-문제 해결적 접근을 중시해요.
+현실의 문제를 코드로 해결하는 👨‍💻에요.
 
-그래서 코딩하기에 앞서 해결하려는 문제가 무엇인지 명확히 정의하려고 노력해요.
+문제 상황을 과하지 않은 적절한 🔧로 해결하고자 노력해요.
 
-코드는 적게 쓸수록 좋다고 믿어요.
-
-그래서 새로운 코드를 쓰는게 무조건적인 해법이 아니라고 생각해요.
-
-기존 코드를 지우기만 해도 문제가 해결되거나, 아예 다른 방법이 해법이 될 수도 있어요.
+자존심은 낮추고, 자존감은 높이려 해요. 🧘‍♂️ 
 
 
 # 이런 경험이 있어요
