@@ -1,6 +1,5 @@
 # Maker를 지향하는 개발자 정윤환입니다 👨‍💻
 
-[![velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square)](https://velog.io/@aiden/series)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:jimmy53120488@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-0C66C3?style=flat-square&logo=linkedin&logoColor=EFF2EB)](https://www.linkedin.com/in/aaronchung5312/)
 
