@@ -10,7 +10,5 @@ As a Software Engineer, I strive to:
 - Believe my ability isn’t set in stone even if I struggle with certain skills.
 
 # Technical Skills
-**Languages:** TypeScript (Expert), JavaScript (Expert), HTML (Expert), CSS (Expert)
-**Frameworks:** React (Expert), Electron, Next.js, Vite, Webpack, Vitest, Jest, Emotion, Sass, Node.js, MySQL, REST, AWS
-
----
+**Languages:** TypeScript (Expert), JavaScript (Expert), HTML (Expert), CSS (Expert) <br/>
+**Frameworks:** React, Vue, Electron, Next.js, Vite, Webpack, Vitest, Jest, Emotion, Sass, Node.js, MySQL, REST, AWS
