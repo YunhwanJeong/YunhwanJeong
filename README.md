@@ -4,9 +4,9 @@
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-0C66C3?style=flat-square&logo=linkedin&logoColor=EFF2EB)](https://www.linkedin.com/in/Yunhwan-jeong/)
 
 As a Software Engineer, I strive to:
-- Prioritize 'Worth paying customer value' and 'Measurable business impact' over tech.
+- Prioritize measurable business impact over tech.
 - Do the right thing even if no one is watching.
-- Check the other person's needs and understanding before I say something.
+- Listen actively to put myself in their shoes.
 - Believe my ability isn’t set in stone even if I struggle with certain skills.
 
 # Technical Skills
