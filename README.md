@@ -8,4 +8,4 @@ Recently learned how hard it is to create customer value that they are willing t
 
 # Technical Skills
 **Languages:** TypeScript (Expert), JavaScript (Expert), HTML (Expert), CSS (Expert) <br/>
-**Technologies:** React, Vue, Electron, Next.js, Vite, Webpack, Vitest, Jest, Emotion, Sass, Node.js, MySQL, REST, AWS
+**Technologies:** React (Expert), Vue, Electron, Next.js, Vite, Webpack, Vitest, Jest, Emotion, Sass, Node.js, MySQL, REST, AWS
