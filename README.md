@@ -3,7 +3,7 @@
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:jimmy53120488@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-0C66C3?style=flat-square&logo=linkedin&logoColor=EFF2EB)](https://www.linkedin.com/in/Yunhwan-jeong/)
 
-Motivated when making a measurable business impact in a team environment.
+Driven by making measurable business impacts within collaborative team settings.
 
 # Technical Skills
 **Languages:** TypeScript (Expert), JavaScript (Expert), HTML (Expert), CSS (Expert) <br/>
