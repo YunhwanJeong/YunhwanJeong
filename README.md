@@ -7,4 +7,4 @@ Excited to see people finding practical uses for the software I've created, and 
 
 # Technical Skills
 **Languages:** TypeScript (Expert), JavaScript (ES6+, Expert), HTML (Expert), CSS (Expert) <br/>
-**Technologies:** React (Expert), Next.js, Electron, Webpack, Jest, Node.js, MySQL, AWS, CircleCI, CI/CD, Testing, REST
+**Technologies:** React (Expert), Vue, Next.js, Electron, Vitest, Webpack, Jest, Cypress, Node.js, MySQL, AWS, CircleCI, CI/CD, Testing, REST
