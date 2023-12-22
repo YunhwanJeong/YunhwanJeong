@@ -8,4 +8,4 @@ and even more so when they're willing to pay for them.
 
 # Technical Skills
 **Languages:** TypeScript (Expert), JavaScript (ES6+, Expert), HTML (Expert), CSS (Expert) <br/>
-**Technologies:** React (Expert), Next.js, Electron, Vite, Webpack, Vitest, Jest, Node.js, MySQL, AWS, CircleCI, CI/CD, Testing, REST
+**Technologies:** React, Vue, Next.js, Electron, Vite, Webpack, Vitest, Jest, Node.js, MySQL, AWS, CircleCI, CI/CD, Testing, REST
