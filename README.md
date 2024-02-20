@@ -8,4 +8,4 @@ and, even more so, when they're willing to pay for it.
 
 # Technical Skills
 **Languages:** TypeScript (Expert), JavaScript (ES6+, Expert), HTML (Expert), CSS (Expert) <br/>
-**Technologies:** React, Vue, Electron, Next.js, Ant Design, Sass, Styled Components, Vite, Webpack, Vitest, Jest, React Testing Library, Storybook, Cypress, Node.js, MySQL, AWS, CircleCI, GitHub Actions, CI/CD, Sentry, REST, GraphQL
+**Technologies:** React, Vue, Electron, Next.js, Ant Design, Sass, Styled Components, Vite, Webpack, Vitest, Jest, React Testing Library, Storybook, Cypress, Node.js, Express.js, MySQL, AWS, CircleCI, GitHub Actions, CI/CD, Sentry, REST, GraphQL
