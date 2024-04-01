@@ -1,11 +1,16 @@
-# Yunhwan(Aaron) Jeong
+### Hi there 👋
 
-[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:jimmy53120488@gmail.com)
-[![linkedin Badge](https://img.shields.io/badge/LinkedIn-0C66C3?style=flat-square&logo=linkedin&logoColor=EFF2EB)](https://www.linkedin.com/in/Yunhwan-jeong/)
+Welcome to my profile 🙌
 
-Thrilled to see users enjoying happy moments with the software I've created,<br />
-and, even more so, when they're willing to pay for it.
-
-# Technical Skills
-**Languages:** TypeScript, JavaScript, HTML, CSS <br/>
-**Technologies:** React, Vue, Electron, Next.js, Ant Design, Sass, Styled Components, Vite, Webpack, Vitest, Jest, React Testing Library, Storybook, Cypress, Node.js, Express.js, MySQL, AWS, CircleCI, GitHub Actions, CI/CD, Sentry, REST, GraphQL
+- I recently worked [@ABLY](https://www.linkedin.com/company/ably-corp/) on the bridge squad 🌉 as a senior software engineer (front-end)
+  - ABLY is Korea's leading fashion E-commerce startup 👗 with $1B annual revenue 💰 and 7M monthly active users 📱
+  - As a founding member, led the development of front-end applications of order fulfillment system to handle rapid growth, reaching 1M daily shipments 📦
+- Before ABLY, I was [@ProtoPie](https://www.protopie.io/) on the Studio team 🎨 as a software engineer (desktop)
+  - ProtoPie is the advanced prototyping tool for dynamic & multimodal interactions 🪄
+  - Designed an Amplitude-based data tracking system to analyze user behavior and inform product decisions, handling 2M daily events 📊
+  - Worked with global, cross-functional teams in a distributed, remote environment 🌍
+- Before ProtoPie, I was @D&I Parvis as a software engineer (back-end)
+  - D&I Parvis served AI-powered patent search service 🔎
+- I'm currently looking for a new opportunity 💼
+- I live in Toronto, ON, Canada 🇨🇦
+- I speak English and Korean 🗣️
