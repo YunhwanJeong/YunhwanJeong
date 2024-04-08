@@ -11,9 +11,9 @@ Glad you dropped by! Here's a little about me:
   - Disagree and commit 🤝 
   - We are all human 🫂
 - Work Experience 💼:
-  - I recently worked [@ABLY](https://www.linkedin.com/company/ably-corp/) on the bridge squad 🌉 as a senior software engineer (web, mobile). ABLY is Korea's leading fashion E-commerce startup with $260M annual net sales and 7M monthly active users 🛍️
-  - Before ABLY, I was [@ProtoPie](https://www.protopie.io/) on the Studio team 🎨 as a software engineer (desktop). ProtoPie is the advanced prototyping tool for dynamic & multimodal interactions 🪄. Worked with globally distributed, cross-functional teams in a remote-first environment 🌐
-  - Before ProtoPie, I was @D&I Parvis as a software engineer (back-end). D&I Parvis served AI-powered patent search service 🔎
+  - [@ABLY](https://www.linkedin.com/company/ably-corp/), Korea's leading fashion E-commerce startup with $260M in annual net sales and 7M monthly active users, I worked as a senior front-end engineer (web, mobile) 🛍️
+  - [@ProtoPie](https://www.protopie.io/), the advanced prototyping tool, I worked as a software engineer (desktop), collaborating with globally distributed, cross-functional teams in a remote-first environment 🌐
+  - @D&I Parvis, the AI-powered patent search service, I worked as a software engineer (back-end) 🔎
 - Personal Information ℹ️:
   - On the lookout for new opportunities 🌟
   - Based in Toronto, ON, Canada 🍁
